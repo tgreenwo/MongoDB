@@ -1,1 +1,1 @@
-# MongoDB
+load ("C:/Inserts.js")
